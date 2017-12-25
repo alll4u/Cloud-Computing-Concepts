@@ -1,0 +1,3 @@
+- Building Blocks for Distributed Systems(in the Cloud)
+    - Gossip or Epidemic Protocols
+    - Failure detection and Membership Protocols
