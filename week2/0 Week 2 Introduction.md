@@ -1,3 +1,7 @@
 - Building Blocks for Distributed Systems(in the Cloud)
     - Gossip or Epidemic Protocols
     - Failure detection and Membership Protocols
+- These building blocks will be used in coming weeks
+- The Programming Assignment is an implementation of one of these building blocks
+- Grid computing
+    - Another pre-cursor to clouds
