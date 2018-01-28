@@ -1,0 +1,4 @@
+- A machine
+- A core on a machine
+- A process on a core on a machine
+- A thread exists on multiple different calls
